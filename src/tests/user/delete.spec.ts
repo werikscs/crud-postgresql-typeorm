@@ -1,4 +1,4 @@
-import { AppDataSource } from "../../data-source";
+import AppDataSource from "../../data-source";
 import { DataSource } from "typeorm";
 import app from "../../app";
 import request from "supertest";
